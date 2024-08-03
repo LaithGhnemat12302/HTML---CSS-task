@@ -60,23 +60,23 @@
 
 @keyframes headerImage {
     0%{
-        background-image: url(../Imgaes/img1.jpg);
+        background-image: url(../Images/img1.jpg);
     }
 
     25%{
-        background-image: url(../Imgaes/img2.PNG);
+        background-image: url(../Images/img2.PNG);
     }
 
     50%{
-        background-image: url(../Imgaes/img3.PNG);
+        background-image: url(../Images/img3.PNG);
     }
 
     75%{
-        background-image: url(../Imgaes/img4.jpg);
+        background-image: url(../Images/img4.jpg);
     }
 
     100%{
-        background-image: url(../Imgaes/img5.jpg);
+        background-image: url(../Images/img5.jpg);
     }
 }
 
